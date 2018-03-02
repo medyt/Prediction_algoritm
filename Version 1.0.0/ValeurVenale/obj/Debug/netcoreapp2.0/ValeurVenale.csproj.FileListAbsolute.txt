@@ -1,0 +1,11 @@
+C:\Users\Madalin\Desktop\ValeurVenale\ValeurVenale\bin\Debug\netcoreapp2.0\ValeurVenale.deps.json
+C:\Users\Madalin\Desktop\ValeurVenale\ValeurVenale\bin\Debug\netcoreapp2.0\ValeurVenale.runtimeconfig.json
+C:\Users\Madalin\Desktop\ValeurVenale\ValeurVenale\bin\Debug\netcoreapp2.0\ValeurVenale.runtimeconfig.dev.json
+C:\Users\Madalin\Desktop\ValeurVenale\ValeurVenale\bin\Debug\netcoreapp2.0\ValeurVenale.dll
+C:\Users\Madalin\Desktop\ValeurVenale\ValeurVenale\bin\Debug\netcoreapp2.0\ValeurVenale.pdb
+C:\Users\Madalin\Desktop\ValeurVenale\ValeurVenale\obj\Debug\netcoreapp2.0\ValeurVenale.csprojResolveAssemblyReference.cache
+C:\Users\Madalin\Desktop\ValeurVenale\ValeurVenale\obj\Debug\netcoreapp2.0\ValeurVenale.csproj.CoreCompileInputs.cache
+C:\Users\Madalin\Desktop\ValeurVenale\ValeurVenale\obj\Debug\netcoreapp2.0\ValeurVenale.AssemblyInfoInputs.cache
+C:\Users\Madalin\Desktop\ValeurVenale\ValeurVenale\obj\Debug\netcoreapp2.0\ValeurVenale.AssemblyInfo.cs
+C:\Users\Madalin\Desktop\ValeurVenale\ValeurVenale\obj\Debug\netcoreapp2.0\ValeurVenale.dll
+C:\Users\Madalin\Desktop\ValeurVenale\ValeurVenale\obj\Debug\netcoreapp2.0\ValeurVenale.pdb
