@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Madalin\\Desktop\\Prediction_algoritm\\Version 1.0.0\\project\\ValeurVenale\\ValeurVenale.csproj",
+      "projectUniqueName": "C:\\Users\\Madalin\\Desktop\\ValeurVenale\\ValeurVenale\\ValeurVenale.csproj",
       "projectName": "ValeurVenale",
-      "projectPath": "C:\\Users\\Madalin\\Desktop\\Prediction_algoritm\\Version 1.0.0\\project\\ValeurVenale\\ValeurVenale.csproj",
+      "projectPath": "C:\\Users\\Madalin\\Desktop\\ValeurVenale\\ValeurVenale\\ValeurVenale.csproj",
       "packagesPath": "C:\\Users\\Madalin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Madalin\\Desktop\\Prediction_algoritm\\Version 1.0.0\\project\\ValeurVenale\\obj\\",
+      "outputPath": "C:\\Users\\Madalin\\Desktop\\ValeurVenale\\ValeurVenale\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
