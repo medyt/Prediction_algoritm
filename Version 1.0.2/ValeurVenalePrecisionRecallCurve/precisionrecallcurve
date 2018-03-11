@@ -1,0 +1,18 @@
+import matplotlib.pyplot as plt
+
+file = open("C:\\Users\\Madalin\\Desktop\\ValeurVenale\\precisionrecall.txt", "r")
+
+precision = []
+recall = []
+for i in range(5,101,5):
+    precision.append([i,file.readline()])
+    recall.append([i,file.readline()])
+
+plt.xlabel('x label = prag')
+plt.ylabel('y label = procent')
+
+plt.plot(*zip(*precision))
+plt.plot(*zip(*recall))
+plt.title("Precision recall")
+plt.legend()
+plt.show()
