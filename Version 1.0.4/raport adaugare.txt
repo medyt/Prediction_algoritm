@@ -1,0 +1,16 @@
+Pentru calculul pretului am luat in calcul urmatoarele date:
+
+-Living space surface 
+-Number Of Facades
+-Contruction Year
+-Land Surface (Garden surface)
+-Tipul (casa sau apartament. pentru diferentiere)
+-AppartmentTypes
+-Condition
+-Garage
+-Basement
+-Gardens
+-OutsideFeatures(anexe exterioare)
+-Terrace(la apartamente)
+-CkeckOutsideBalcony(apartment)
+-CheckOutsideParking(apartment)
